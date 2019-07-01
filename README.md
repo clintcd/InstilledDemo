@@ -2,7 +2,7 @@
 Instilled demo application.
 
 To build this app in a great IDE, either launch your copy if IntelliJ IDEA, or 
-download a 30 day eval here: https://www.jetbrains.com/idea/download
+download a 30 day eval here: https://www.jetbrains.com/idea/download  **
 
 To build the project, just select the menu Build->Rebuild Project
 
@@ -20,3 +20,7 @@ To preview program output consumed and displayed by the vis.js timeline componen
 into the text box at the top of this page and press the "Load" button:
 
 https://visjs.org/examples/timeline/dataHandling/dataSerialization.html
+
+** Or, run the ant script included, substituting local locations for your JDK installation, etc.
+   Optionally, all jar files for JUnit (the only dependencies for this project) are included here. The source should readily compile
+   in any IDE.
