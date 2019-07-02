@@ -1,7 +1,7 @@
 # InstilledDemo
 Instilled demo application.
 
-To build this app in a great IDE, either launch your copy if IntelliJ IDEA, or 
+To build this app in a great IDE, either launch your copy of IntelliJ IDEA, or 
 download a 30 day eval here: https://www.jetbrains.com/idea/download  **
 
 To build the project, just select the menu Build->Rebuild Project
